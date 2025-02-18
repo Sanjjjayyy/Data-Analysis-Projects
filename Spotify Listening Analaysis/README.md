@@ -1,10 +1,9 @@
 # Spotify Listening Analysis Dashboard
 ## Project Overview
 This project is to analyze user listening habits on Spotify, trends, and provide actionable insights for music streaming platforms. The dashboard will track user engagement patterns, most popular tracks/artists, and the influence of time, platform, and user behavior on music consumption.
-## DataSet Used
-      
 ## Tools Used
 PowerBi
+(No Data Cleaning is Needed as the file is already clean.)
 ## Problem Statement
  - Find the total minutes music played 
  - Find average minutes per session and average sessions per day using dax functions
