@@ -14,7 +14,7 @@ PowerBi
  - Plot a donut chart for music played by platform
  - Plot a pie chart for music played on time of the day
  - Use day,time filter for the chart
-## Dashboard Sample
+   
 ## Insights
  - Peak Hours: Most users listen to music during evenings, specifically between 6 PM and 9 PM(Night)
  - Music streaming increases by 15–20% on weekends, especially on Saturdays.
