@@ -1,2 +1,2 @@
 # Data-Analysis-Projects
-This repository contains my data analysis pratices
+This repository contains my data analysis practices
