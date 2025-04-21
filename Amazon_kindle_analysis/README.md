@@ -2,7 +2,7 @@
 ## Project Overview
 This project aims to explore and visualize the Amazon Kindle books dataset to uncover insights into the most prolific authors, popular genres, pricing trends, and customer ratings. The goal is to identify key patterns that can help publishers, authors, and readers better understand what drives Kindle book popularity and sales performance.
 ## Dataset
-Link:https://www.kaggle.com/datasets/asaniczka/amazon-kindle-books-dataset-2023-130k-books
+Link: https://www.kaggle.com/datasets/asaniczka/amazon-kindle-books-dataset-2023-130k-books
 ## Requirements
 - Jupter Notebook
 - Pandas
